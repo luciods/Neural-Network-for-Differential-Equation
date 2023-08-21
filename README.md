@@ -1,1 +1,1 @@
-[Click here to open the PDF document](main/Project.pdf)
+[Click here to open the PDF document](Project.pdf)
